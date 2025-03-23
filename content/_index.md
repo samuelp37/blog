@@ -21,15 +21,15 @@ sections:
     design:
       css_class: dark
       background:
-        color: black
+        color: darkcyan
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
+          filename: ''
+          # filters:
+          #   brightness: 1.0
+          # size: cover
+          # position: center
+          # parallax: false
   # - block: markdown
   #   content:
   #     title: '📚 My Research'
@@ -101,7 +101,7 @@ sections:
       view: date-title-summary
       # Reduce spacing
       spacing:
-        padding: [0, 0, 0, 0] 
+        padding: [20, 0, 0, 0] 
     # - block: cta-card
     #   demo: true # Only display this section in the Hugo Blox Builder demo site
     #   content:

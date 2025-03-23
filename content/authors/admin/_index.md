@@ -39,10 +39,16 @@ interests:
   - Data Science
 
 education:
-  - area: Engineering Degree
+  - area: Engineering Degree (Master)
     institution: Telecom Paris/Eurecom
     date_start: 2016-09-01
     date_end: 2019-09-30
+    summary: |
+      TBD
+  - area: Engineering Degree Preparation
+    institution: Lycee Carnot
+    date_start: 2014-09-01
+    date_end: 2016-06-30
     summary: |
       TBD
 work:
@@ -54,6 +60,30 @@ work:
     date_end: ''
     summary: |2-
       As a Software Engineer with focus in Data Science, I am aiming at helping projects to design custom solutions for data-related problems. Successfully integrating data processing pipeline and AI/ML solutions is therefore my primary goal.
+  - position: Intern
+    company_name: InterDigital
+    company_url: 'https://www.interdigital.com/'
+    company_logo: ''
+    date_start: 2019-04-01
+    date_end: 2019-09-30
+    summary: |2-
+      As a Machine Learning Intern, my goal was to acquire in-depth practical knowledge in the field of deep-learning based image processing algorithms. Image Segmentation and Video Interpolation algorithms were my main focus in this internship.
+  - position: Summer Intern
+    company_name: NXP Semiconductors
+    company_url: 'https://www.nxp.com/'
+    company_logo: ''
+    date_start: 2018-07-01
+    date_end: 2019-09-15
+    summary: |2-
+      As a student in embedded systems and data science enthusiast, I was able in this internship to expand and combine my knowledge in these two fields. Hardware accelerated neural networks were my primary focus of study.
+  - position: Summer Intern
+    company_name: Objectif France Inde
+    company_url: 'https://www.ofi-asso.org/'
+    company_logo: ''
+    date_start: 2017-07-01
+    date_end: 2018-08-09
+    summary: |2-
+      As a computer science student, my goal in this internship was to teach basics of programming to junior high-school students in two indian schools near Trichy (NGOs SEVAI and Gramium).
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -89,6 +119,6 @@ awards:
 
 ---
 
-## About Me
+## About
 
 Software Engineer with focus in Data Science, my daily goal is to design custom technical solutions to tackle a wide range of data-related and software development problems.
