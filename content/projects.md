@@ -11,13 +11,24 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Personal projects
+      text: These are my current personal projects.
       filters:
         folders:
           - project
     design:
       view: article-grid
-      fill_image: false
+      fill_image: true
+      columns: 3
+  - block: collection
+    content:
+      title: Inactive projects
+      text: These are my past personal projects, currently not active anymore.
+      filters:
+        folders:
+          - inactive-project
+    design:
+      view: article-grid
+      fill_image: true
       columns: 3
 ---

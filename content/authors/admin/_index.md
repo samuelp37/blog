@@ -44,13 +44,13 @@ education:
     date_start: 2016-09-01
     date_end: 2019-09-30
     summary: |
-      TBD
+      During my engineering degree at Telecom Paris/Eurecom, I could develop my skills in various area such as software engineering, telecommunication/networking, embedded systems and data science. I also had the opportunity to participate to an Erasmus exchange at the Technical University of Munich where I mainly focused on Data Engineering and Computer Vision.
   - area: Engineering Degree Preparation
     institution: Lycee Carnot
     date_start: 2014-09-01
     date_end: 2016-06-30
     summary: |
-      TBD
+      During these two years in "Preparation school" (Preparation for national competitive entrance exam to french "Grandes Ecoles"), I focused on acquiring some theoretical knowledge over a wide range of scientific topics especially in Physics, Mathematics and Engineering Sciences.
 work:
   - position: Software Engineer
     company_name: MaibornWolff GmbH
